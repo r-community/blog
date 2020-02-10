@@ -1,4 +1,4 @@
-# blog
+# Reporting R Community Activities
 Blog for reporting trends, insights and summaries from R Community activities
 
 # Articles describing R Community Exploration so far
